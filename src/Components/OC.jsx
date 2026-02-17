@@ -2,7 +2,7 @@ import React from 'react'
 import C1 from '../assets/c1.avif'
 import C3 from '../assets/c3.webp'
 import C4 from '../assets/c4.jpg'
-import C5 from '../assets/c5.webp'
+import C5 from '../assets/C5.webp'
 const OC = () => {
       return (
             <section className='w-full py-14 overflow-hidden bg-amber-200'>
