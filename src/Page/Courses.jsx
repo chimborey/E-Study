@@ -1,10 +1,11 @@
 import React from 'react'
-import OurCourses from '../Components/OurCourses'
+import OC from '../Components/OC'
+
 
 const Courses = () => {
   return (
     <main>
-      <OurCourses />
+      <OC />
     </main>
   )
 }
